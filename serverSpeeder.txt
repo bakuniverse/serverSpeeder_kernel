@@ -1905,6 +1905,8 @@ Debian/8/3.16.0-4-amd64/x64/3.10.61.0/lotServer_6185
 Debian/8/3.16.0-4-amd64/x64/3.11.20.4/lotServer_7138
 Debian/8/3.16.0-4-amd64/x64/3.11.20.10/lotServer_7942
 Debian/8/4.4.10-1-pve/x64/3.11.20.10/lotServer_7920
+Debian/9/4.9.0-4-amd64/x64/3.11.36.5/lotServer_9070
+Debian/9/4.9.0-4-amd64/x64/3.11.36.6/lotServer_9072
 OWLinux/4.0.3/2.6.26.8.1.OWLsmp/x64/3.10.61.0/lotServer_4970
 OWLinux/4.0.3/2.6.26.8.1.OWLsmp/x64/3.11.20.4/lotServer_7025
 OWLinux/4.0.3/2.6.26.8.1.OWLsmp/x64/3.11.20.10/lotServer_7935
